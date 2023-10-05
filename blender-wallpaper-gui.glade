@@ -350,7 +350,7 @@
                         <property name="receives-default">True</property>
                         <property name="halign">start</property>
                         <property name="valign">center</property>
-                        <signal name="clicked" handler="randomizeElement" object="color_plane" swapped="no"/>
+                        <signal name="clicked" handler="randomizeElement" object="plane" swapped="no"/>
                         <child>
                           <object class="GtkImage">
                             <property name="visible">True</property>
